@@ -1,0 +1,10 @@
+Package: moRmon
+Title: A Data Package that holds the standardized scriptural texts for The Church of Jesus Christ of Latter-day Saints.
+Version: 0.1.0
+Authors@R: person("Dylan", "McDowell", email = "dylan.mcdowell226@gmail.com", role = c("aut", "cre"))
+Description: The package holds tidy datasets containing all the doctrinal scriptures used by The Church of Jesus Christ of Lattery-day Saints (Mormon Religion)
+Depends: R (>= 3.5.0)
+License: Public Domain
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
