@@ -1,8 +1,8 @@
 Package: moRmon
-Title: A Data Package that holds the standardized scriptural texts for The Church of Jesus Christ of Latter-day Saints.
+Title: A Data Package that contains the standardized scriptural texts for The Church of Jesus Christ of Latter-day Saints in tidy format.
 Version: 0.1.0
 Authors@R: person("Dylan", "McDowell", email = "dylan.mcdowell226@gmail.com", role = c("aut", "cre"))
-Description: The package holds tidy datasets containing all the doctrinal scriptures used by The Church of Jesus Christ of Lattery-day Saints (Mormon Religion)
+Description: The package holds tidy datasets containing all the doctrinal scriptures used by The Church of Jesus Christ of Lattery-day Saints (Mormon Religion). This package includes one large tidy dataset containing the King James Version of the Bible, Book of Mormon, Doctrine & Covenants, and Pearl of Great Price. Also included are pre-subsetted data sets of the aforementioned books.
 Depends: R (>= 3.5.0)
 License: Public Domain
 Encoding: UTF-8
