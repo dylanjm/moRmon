@@ -12,3 +12,11 @@ simply made it easy to use from R.
 
 **I am in no way affiliated with The Church of Jesus Christ of
 Latterday-Saints**
+
+Install
+-------
+
+``` r
+#install.packages("devtools")
+devtools::install_github("dylanjm/moRmon")
+```
