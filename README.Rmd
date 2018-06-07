@@ -22,3 +22,11 @@ The goal of moRmon is to provide the [Standard Works](https://www.lds.org/topics
 These data were organized by http://scriptures.nephi.org/. I have simply made it easy to use from R. 
 
 __I am in no way affiliated with The Church of Jesus Christ of Latterday-Saints__
+
+## Install
+
+```{r, eval=FALSE}
+#install.packages("devtools")
+devtools::install_github("dylanjm/moRmon")
+```
+
